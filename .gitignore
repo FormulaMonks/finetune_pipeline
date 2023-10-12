@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/data,audio,macos,dotenv,images,python,pycharm,database,visualstudio,jupyternotebooks,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=data,audio,macos,dotenv,images,python,pycharm,database,visualstudio,jupyternotebooks,visualstudiocode
 
+# Put checkpoints on HuggingFace
+results/
+
 ### Audio ###
 *.aif
 *.iff
