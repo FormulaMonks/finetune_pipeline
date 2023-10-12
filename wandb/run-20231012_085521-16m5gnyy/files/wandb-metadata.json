@@ -1,0 +1,102 @@
+{
+    "os": "Linux-5.10.0-25-cloud-amd64-x86_64-with-glibc2.31",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-10-12T08:55:21.282085",
+    "startedAt": "2023-10-12T08:55:21.005474",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "sciq.ipynb",
+    "codePathLocal": "sciq.ipynb",
+    "root": "/home/abhijoysarkar/exp",
+    "host": "a100-instance",
+    "username": "abhijoysarkar",
+    "executable": "/home/abhijoysarkar/exp/venv/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2200.16,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2200.16,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1007.6765480041504,
+            "used": 37.761863708496094
+        }
+    },
+    "gpu": "NVIDIA A100-SXM4-40GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-SXM4-40GB",
+            "memory_total": 42949672960
+        }
+    ],
+    "memory": {
+        "total": 83.48266220092773
+    }
+}
